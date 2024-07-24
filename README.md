@@ -22,6 +22,15 @@
 
 #
 
+## Competências:
+- Persistente
+- Dedicado
+- Responsável
+- Boa Comunicação
+- Criativo
+
+#
+
 ## Matérias em destaque:
 - Matemática.
 - Física.
@@ -32,13 +41,15 @@
 - Canva.
 - Word.
 - Power Point.
-- Virtual Studio Code.
+- Visual Studio Code.
 - GitHub.
 
 #
 
 ## Certificados:
 - Curso de Python (CISCO). 
-![alt text](https://miro.medium.com/v2/resize:fit:1400/1*ycIMlwgwicqlO6PcFRA-Iw.png)
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*ycIMlwgwicqlO6PcFRA-Iw.png" width="500" height="300" />
 - Privacidade e Proteção de Dados (LGPD).
-![alt text](https://www.mppi.mp.br/internet/wp-content/uploads/2023/02/lgpd-768x560.jpg)
+<img src="https://www.mppi.mp.br/internet/wp-content/uploads/2023/02/lgpd-768x560.jpg" width="500" height="300" />
+- Curso Soft Skills (SEBRAE).
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhx9dl0_KF0L0epqdBxUgPrSyCvPkx7Ycc6Q&s" width="500" height="300" />
