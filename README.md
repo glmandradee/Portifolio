@@ -1,6 +1,7 @@
 # Portifólio de Guilherme Andrade.
 ### Estudante da Escola SESI: Cursando o 2°ano do Ensino Médio.
 ### Curso técnico da Escola Senai: Desenvolvimento de Sistemas.
+### Gosto da área do comércio.
 
 #
 
